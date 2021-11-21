@@ -1,7 +1,7 @@
 # Sales Insights Dashboard using Tableau
 
 ## AIMS Grid
-1.) Purpose - To unlock sales insights that are not visible before sales team necessary for decision making and automate them to reduce manual efforts spent in data gathering
+1.) Purpose - To unlock sales insights that are not visible before sales team necessary for decision making and automate them to reduce manual efforts spent in data gathering <br />
 2.) Stakeholders - Sales Director, Marketing Team, Customer Excellence Team, Data & Analytics Team, IT Team
 3.) END Result - An Automated dashboard providing quick and latest sales insights in order to support data driven decision making
 4.) Success Criteria - 
